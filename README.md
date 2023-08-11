@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @QADEERAHMED110
 - BS(CS) Student
-- 👀 I’m interested in
+- 👀 I’m interested in.....
 - Computer Programming,
 - Software Development,
 - Android App Development,
 - Game Developments,
 - Front end web development.
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning.....
 - Python
 - Java
 - Assembly Language
