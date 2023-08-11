@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @QADEERAHMED110
 - BS(CS) Student
-- 👀 I’m interested in Computer Programming, Software Development, Android App Development, Game Developments, Front end web development.
+- 👀 I’m interested in
+- Computer Programming,
+- Software Development,
+- Android App Development,
+- Game Developments,
+- Front end web development.
 - 🌱 I’m currently learning
 - Python
 - Java
@@ -8,7 +13,6 @@
 - Linux Shell Scripting
 - Java FX 
 - C Programming
-- Front End Programming
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - qadeerhussain385@gmail.com. it's my email for contact.
