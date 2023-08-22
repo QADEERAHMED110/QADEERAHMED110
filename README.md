@@ -15,7 +15,7 @@
 - C Programming
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- qadeerhussain385@gmail.com. it's my email for contact.
+
 
 <!---
 QADEERAHMED110/QADEERAHMED110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
